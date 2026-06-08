@@ -1,0 +1,16 @@
+INFO [2023-03-19 14:49:06] ffcAPIClient Version 0.9.8.3
+INFO [2023-03-19 14:49:44] ffcAPIClient Version 0.9.8.3
+INFO [2023-03-19 14:49:44] ffcAPIClient Version 0.9.8.3
+INFO [2023-03-19 14:51:47] ffcAPIClient Version 0.9.8.3
+INFO [2023-03-19 14:51:47] Excluding water years  for having more than 7 missing days of data
+INFO [2023-03-19 14:52:04] ffcAPIClient Version 0.9.8.3
+INFO [2023-03-19 14:52:04] Excluding water years  for having more than 7 missing days of data
+INFO [2023-03-19 14:53:00] ffcAPIClient Version 0.9.8.3
+INFO [2023-03-19 14:53:00] Excluding water years  for having more than 7 missing days of data
+INFO [2023-03-19 14:53:00] ffcAPIClient Version 0.9.8.3
+INFO [2023-03-19 14:53:00] Excluding water years  for having more than 7 missing days of data
+INFO [2023-03-19 15:12:04] ffcAPIClient Version 0.9.8.3
+INFO [2023-03-19 15:12:15] ffcAPIClient Version 0.9.8.3
+INFO [2023-03-19 15:13:41] ffcAPIClient Version 0.9.8.3
+INFO [2023-03-19 15:29:56] ffcAPIClient Version 0.9.8.3
+INFO [2023-03-19 15:29:56] ffcAPIClient Version 0.9.8.3
